@@ -3,7 +3,7 @@ from tkinter import simpledialog
 import tkinter
 import persisten as p
 import pygame as pg
-import winsound
+
 import time
 pg.mixer.init()
 pg.init()
